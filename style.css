@@ -1,0 +1,15 @@
+@charset "utf-8";
+h2{
+			background-color:#70FF7C;
+			font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+			font-style: oblique;
+		}
+	.bodyCopy{
+		font-size: 23;
+		font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+		width:auto;
+		color:darkmagenta;
+		border:solid 5px #0D7FF7;
+		padding:10px;
+		margin:10px;
+}
